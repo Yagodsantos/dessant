@@ -116,5 +116,5 @@ function quemSouEu(array) {
 }
 
 const personagemEscolhido = quemSouEu(personagensNaruto);
-console.log("Você é:", personagemEscolhido);
-*/
+console.log("Você é:", personagemEscolhido); 
+*/       
