@@ -18,7 +18,7 @@ console.log(array.length)
 
 
 
-const array2 = ["gon", "michael scott", "luffy", "pica-pau", "kaito", ""]
+const array2 = ["gon", "michael scott", "luffy", "pica-pau", "kaito", "snoopy"]
 // funçao q quando chamada dira qual peronagem eu sou
 
 

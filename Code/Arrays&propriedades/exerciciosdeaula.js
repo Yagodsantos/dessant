@@ -16,10 +16,13 @@ console.log('d. ', array[i])
 // 3
 array[i+1] = 19
 console.log('e. ', array)
+//4=19
+
 
  
 const valor = array[i+6]
 console.log('f. ', valor)
+//9
 
 
 
@@ -32,3 +35,4 @@ const frase = readlineSync.question("Digite uma frase: ");
 console.log(frase.toUpperCase().replaceAll("A", "I"), frase.length);
 // Qual será o valor impresso no console se a entrada do usuário for: "Subi num ônibus em Marrocos"?
 // SUBI NUM ONIBUS EM MIRROCOS 
+//27
